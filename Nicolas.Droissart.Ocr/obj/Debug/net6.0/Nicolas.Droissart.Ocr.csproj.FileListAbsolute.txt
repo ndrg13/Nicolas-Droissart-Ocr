@@ -1,0 +1,17 @@
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\Nicolas.Droissart.Ocr.deps.json
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\Nicolas.Droissart.Ocr.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\Nicolas.Droissart.Ocr.pdb
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.csproj.AssemblyReference.cache
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.AssemblyInfoInputs.cache
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.AssemblyInfo.cs
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.csproj.CoreCompileInputs.cache
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\refint\Nicolas.Droissart.Ocr.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\Nicolas.Droissart.Ocr.pdb
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\obj\Debug\net6.0\ref\Nicolas.Droissart.Ocr.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\tessdata\fra.traineddata
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\x86\leptonica-1.80.0.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\x86\tesseract41.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\x64\leptonica-1.80.0.dll
+C:\Users\ndrg\dev\Nicolas.Droissart.Ocr\Nicolas.Droissart.Ocr\bin\Debug\net6.0\x64\tesseract41.dll

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qJtdL3ou3+60H9HXpoO3GY/0Qt5qWXjnsB/KoOociap6as547PrdcFW0myryqifOCQyYL2e8vWN4a9zuIosbuw==",
+  "dgSpecHash": "ynAhcn4Xd2Zb8+0Plq0IQHH33cSSYfrla08NlVqWsEPh3r/7T4wmRfV2WmDKU26L73YZwOkX/mXFUc+sHWO1rA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ndrg\\dev\\Nicolas.Droissart.Ocr\\Nicolas.Droissart.Ocr\\Nicolas.Droissart.Ocr.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ndrg\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndrg\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
