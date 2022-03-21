@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicolas.Droissart.Ocr", "Ni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicolas.Droissart.Ocr.Tests", "Nicolas.Droissart.Ocr.Tests\Nicolas.Droissart.Ocr.Tests.csproj", "{F4E05EF6-8431-4171-9B7F-2864F8F5E21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicolas.Droissart.Ocr.Console", "Nicolas.Droissart.Ocr.Console\Nicolas.Droissart.Ocr.Console.csproj", "{9459F603-5BD6-4EF1-BFBD-B9F91348BA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicolas.Droissart.Ocr.WebApi", "Nicolas.Droissart.Ocr.WebApi\Nicolas.Droissart.Ocr.WebApi.csproj", "{0389EC5B-7ADF-4A46-BA94-5E19B5DE8A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{F4E05EF6-8431-4171-9B7F-2864F8F5E21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E05EF6-8431-4171-9B7F-2864F8F5E21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E05EF6-8431-4171-9B7F-2864F8F5E21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9459F603-5BD6-4EF1-BFBD-B9F91348BA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9459F603-5BD6-4EF1-BFBD-B9F91348BA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9459F603-5BD6-4EF1-BFBD-B9F91348BA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9459F603-5BD6-4EF1-BFBD-B9F91348BA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0389EC5B-7ADF-4A46-BA94-5E19B5DE8A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0389EC5B-7ADF-4A46-BA94-5E19B5DE8A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0389EC5B-7ADF-4A46-BA94-5E19B5DE8A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0389EC5B-7ADF-4A46-BA94-5E19B5DE8A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

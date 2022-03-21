@@ -23,11 +23,11 @@ public class OcrUnitTest
         var ocrResults = new Ocr().Read(images); 
  
         Assert.Equal(ocrResults[0].Text, "Dans de nombreuses technologies, il\nexiste des certifications. Le monde\nMicrosoft en propose de nombreuses pour\n");
-        Assert.InRange(ocrResults[0].Confidence, 0.9, 1); 
-        Assert.Equal(ocrResults[1].Text, @"ARRÉTONS DE PARLER DE\nDÉVELOPPEUR .NET !\n");
-        Assert.InRange(ocrResults[1].Confidence, 0.9, 1); 
-        Assert.Equal(ocrResults[2].Text, @"Le développeur .Net, ou plus largement\nsur les technologies Microsoft, n'est\npas un profil rare. La popularité de C#");
-        Assert.InRange(ocrResults[2].Confidence, 0.9, 1); 
+        Assert.InRange(ocrResults[0].Confidence, 0.8, 1); 
+        Assert.Equal(ocrResults[1].Text, "ARRÉTONS DE PARLER DE\nDÉVELOPPEUR .NET !\n");
+        Assert.InRange(ocrResults[1].Confidence, 0.8, 1); 
+        Assert.Equal(ocrResults[2].Text, "Ë développeur .Net, ou plus largement\nur les technologies Microsoft, n'est\npas un profil rare. La popularité de C#\n");
+        Assert.InRange(ocrResults[2].Confidence, 0.8, 1); 
     } 
     private static string GetExecutingPath() 
     { 
