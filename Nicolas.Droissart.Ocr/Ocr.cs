@@ -19,10 +19,7 @@ public class Ocr
         {
             var task = Task.Run(() =>
             {
-                var executingAssemblyPath = Assembly.GetExecutingAssembly().Location;
-                var executingPath = Path.GetDirectoryName(executingAssemblyPath);
-                using var engine =
-                    new TesseractEngine(Path.Combine(executingPath, @"tessdata"), "fra", EngineMode.Default);
+                using var engine = new TesseractEngine(Path.Combine(GetExecutingPath(), @"tessdata"), "fra", EngineMode.Default);
                 using var pix = Pix.LoadFromMemory(image);
                 var test = engine.Process(pix);
                 var Text = test.GetText();
